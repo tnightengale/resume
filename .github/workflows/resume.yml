@@ -25,7 +25,7 @@ jobs:
       run: npm install
 
     - name: Generate Resume Artifacts
-      run: npm run export-resumes
+      run: npm run export_resumes
 
     - name: Upload Resume Artifacts
       uses: actions/upload-artifact@v4
