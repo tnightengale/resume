@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "The JSON resume-cli and associated themes.",
+  "main": "index.js",
+  "scripts": {
+    "export_resumes": "./export_resumes.sh"
+  },
+  "author": "Teghan Nightengale",
+  "license": "MIT",
+  "dependencies": {
+    "jsonresume-theme-macchiato-plus": "^1.0.2",
+    "resume-cli": "^3.1.2"
+  }
+}

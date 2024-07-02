@@ -1,0 +1,237 @@
+{
+  "basics": {
+    "name": "Teghan Nightengale",
+    "label": "Senior Engineer",
+    "image": "",
+    "email": "tnightengale@gmail.com",
+    "phone": "",
+    "url": "https://github.com/tnightengale",
+    "summary": "I am a recognized expert on building performant and cost-effective data platforms for medium sized startups. I have a strong background in Data Engineering and DevOps, including streaming systems, eventing, data pipelines (ELT/ETL), data architecture, and data analysis, and have worked with a variety of cloud providers and data tools. I am passionate about building data platforms that are easy to use, easy to maintain, and easy to scale.",
+    "location": {
+      "city": "Toronto, Canada"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "tnightengale",
+        "url": "https://www.linkedin.com/in/tnightengale/"
+      },
+      {
+        "network": "GitHub",
+        "username": "tnightengale",
+        "url": "https://github.com/tnightengale"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Felix Health",
+      "position": "Technical Advisor, Data Platform",
+      "startDate": "2022-07-31",
+      "endDate": "2024-06-30",
+      "highlights": [],
+      "summary": "Built the data platform for inference and analytics, advising the Head of Data and VP of Engineering on best frameworks and tooling, while leading implementation across the org.",
+      "url": "https://www.linkedin.com/company/felixhealthca/"
+    },
+    {
+      "name": "Community.com",
+      "position": "Tech Lead, Data Engineering",
+      "startDate": "2021-06-30",
+      "endDate": "2022-06-30",
+      "highlights": [],
+      "summary": "Owned the data platform encompassing data ops, financial reporting and customer billing, ML integrations, external APIs and metadata management.",
+      "url": "https://www.linkedin.com/company/communitydotcom/",
+      "location": "Santa Monica, California, United States"
+    },
+    {
+      "name": "Community.com",
+      "position": "Data Engineer",
+      "startDate": "2020-11-30",
+      "endDate": "2021-05-31",
+      "highlights": [],
+      "summary": "Architected and built the data analytics platform at Community using Snowflake, dbt-Core, Terraform, Docker, Looker.",
+      "url": "https://www.linkedin.com/company/communitydotcom/"
+    },
+    {
+      "name": "Ritual.co",
+      "position": "Data Engineer",
+      "endDate": "2020-10-31",
+      "startDate": "2019-12-01",
+      "highlights": [],
+      "summary": "Led migration of our data pipelines off of GCP and onto Snowflake. Built out our data lakehouse architecture and implemented dbt for data modeling.",
+      "url": "https://www.linkedin.com/company/ritual-co/",
+      "location": "Toronto"
+    },
+    {
+      "name": "Ritual.co",
+      "position": "Data Analyst",
+      "endDate": "2019-11-30",
+      "startDate": "2019-03-31",
+      "highlights": [],
+      "summary": "Worked on a mission-critical team to identify new restaurants for onboarding, across 7 countries. Ever scraped Chinese 'Yelp'? I have.",
+      "url": "https://www.linkedin.com/company/ritual-co/",
+      "location": "Toronto"
+    },
+    {
+      "name": "Various Companies",
+      "position": "Freelance Software Developer",
+      "startDate": "2018-09-30",
+      "endDate": "2019-03-31",
+      "highlights": [],
+      "summary": "Worked with various medium-sized privately held firms on contracts to build internal data tooling, apps, and analytics infrastructure.",
+      "url": "https://www.linkedin.com/company/various-boards/",
+      "location": "Toronto, Canada Area"
+    },
+    {
+      "name": "Queen's University",
+      "position": "Makerspace Director",
+      "startDate": "2017-05-31",
+      "endDate": "2017-09-30",
+      "highlights": [],
+      "summary": "Oversaw the Queen’s makerspace, SparQ Studios, and worked on self-directed initiatives to improve the innovation community at Queen’s University, while consulting on projects for various start-ups.",
+      "url": "https://www.linkedin.com/school/queen%27s-university/",
+      "location": "Kingston, Ontario"
+    },
+    {
+      "name": "Kingston Rowing Club",
+      "position": "Rowing Coach",
+      "startDate": "2016-06-30",
+      "endDate": "2016-08-31",
+      "highlights": [],
+      "summary": "Organized and led programs for experienced and recreational rowers, while managing a team of junior coaches.",
+      "location": "Kingson, Ontario"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "TORONTO CONCERT ORCHESTRA",
+      "position": "Organizational Assistant",
+      "startDate": "2018-05-31",
+      "endDate": "2018-08-31",
+      "summary": "Helped faciliate the Toronto Concert Orchestra's summer concert series at Casa Loma.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/2395136"
+    },
+    {
+      "organization": "Chartwell Retirement Residences",
+      "position": "SKIP (Seniors and Kids Intergenerational Program) Volunteer, 2010-2011",
+      "startDate": "2010-09-30",
+      "endDate": "2011-07-31",
+      "summary": "Visited with retirees weekly to talk, learn, and play bridge.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/838858"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Queen's University",
+      "area": "Economics",
+      "studyType": "BA (Honours)",
+      "startDate": "2014-09",
+      "endDate": "2018-04",
+      "courses": ["Advanced Econometrics", "Quantitative Microeconomics", "Financial Economics", "Industrial Organization"]
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical Leadership",
+      "level": "",
+      "keywords": [
+        "Product Led Roadmap",
+        "OKRs",
+        "Cross Functional Teams",
+        "Onboarding",
+        "Interviewing",
+        "Mentorship"
+      ]
+    },
+    {
+      "name": "Backend Services",
+      "level": "",
+      "keywords": [
+        "FastAPI",
+        "Protobufs",
+        "gRPC"
+      ]
+    },
+    {
+      "name": "Cloud Platforms",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "GCP"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": [
+        "Terraform",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Github Actions",
+        "Gitlab Pipelines",
+        "Jenkins",
+        "ConcourseCI"
+      ]
+    },
+    {
+      "name": "Data Architecture",
+      "level": "",
+      "keywords": [
+        "Lakehouse",
+        "Data Lake",
+        "Iceberg",
+        "Parquet"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "SQL",
+        "TypeScript",
+        "Rust"
+      ]
+    },
+    {
+      "name": "Data Engineering",
+      "level": "",
+      "keywords": [
+        "dbt",
+        "Snowflake",
+        "Looker",
+        "Databricks",
+        "S3",
+        "PubSub"
+      ]
+    },
+    {
+      "name": "Statistical Modeling",
+      "level": "",
+      "keywords": [
+        "Casual Inference / Econometrics",
+        "Machine Learning"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "theme": "macchiato",
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
